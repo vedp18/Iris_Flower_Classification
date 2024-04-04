@@ -1,3 +1,4 @@
+---
 # Iris Flower Classification
 
 This project involves the classification of Iris flowers into three different species using the Logistic Regression model. The three species are:
@@ -13,6 +14,13 @@ We have used the Iris flower dataset containing the following columns:
 - Petal Length
 - Petal Width
 - Species
+
+## Dependencies
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
 
 ## Data Preprocessing
 ### Step 1: Check Columns
