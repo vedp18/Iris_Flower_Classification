@@ -43,4 +43,4 @@ Split the data into training and testing sets using a test size of 20%.
 Trained a Logistic Regression model using the training data.
 
 ## Model Evaluation
-Evaluated the model's accuracy on the testing data, achieving an accuracy score of 99%.
+Evaluated the model's accuracy on the testing data, achieving an accuracy score of 100%.
